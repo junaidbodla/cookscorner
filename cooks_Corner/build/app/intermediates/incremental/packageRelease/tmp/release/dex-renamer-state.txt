@@ -1,0 +1,4 @@
+#Tue Apr 30 12:59:59 PDT 2024
+base.0=/Users/junaidbodla/StudioProjects/cooks_Corner/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

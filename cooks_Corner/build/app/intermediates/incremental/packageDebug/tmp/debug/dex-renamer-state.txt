@@ -1,0 +1,4 @@
+#Tue Apr 30 12:58:31 PDT 2024
+base.0=/Users/junaidbodla/StudioProjects/cooks_Corner/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
